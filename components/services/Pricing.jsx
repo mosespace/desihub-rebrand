@@ -4,7 +4,7 @@ import { FaCircleCheck } from "react-icons/fa6";
 export default function Pricing() {
   return (
     <>
-      <section className='relative overflow-hidden bg-gradient-to-t from-secondary via-primary/90 to-primary min-h-screen'>
+      <section className='relative overflow-hidden bg-gradient-to-t from-[#FF57C3] via-[#0D1224]/90 to-[#0D1224] min-h-screen'>
         <svg
           className='absolute scale-150 bottom-5 opacity-20'
           viewBox='0 0 2665 434'

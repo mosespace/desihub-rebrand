@@ -16,12 +16,12 @@ export default function Reasons({
     <div className=''>
       <div className='mx-auto max-w-7xl px-6 lg:px-8'>
         <div className='mx-auto max-w-5xl lg:text-center flex flex-col justify-center items-center'>
-          <h2 className='text-base font-semibold leading-7 text-blue-100 bg-primary px-3 rounded-lg uppercase mb-4 lg:mb-8'>
+          <h2 className='text-base font-semibold leading-7 text-blue-100 bg-[#0D1224] px-3 rounded-lg uppercase mb-4 lg:mb-8'>
             Key Features
           </h2>
           <h1 className='lg:text-7xl text-4xl md:text-5xl font-bold tracking-tight text-white text-center'>
             Enhanced{" "}
-            <span className='text-transparent bg-clip-text bg-gradient-to-r from-secondary via-slate-50 to-primary'>
+            <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#FF57C3] via-slate-50 to-[#0D1224]'>
               {title}
             </span>
           </h1>
@@ -31,9 +31,9 @@ export default function Reasons({
         </div>
         <div className='mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl'>
           <dl className='grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16'>
-            <div className='relative pl-16 selection:text-white selection:bg-secondary'>
+            <div className='relative pl-16 selection:text-white selection:bg-[#FF57C3]'>
               <dt className='text-base font-semibold leading-7 text-white'>
-                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-secondary'>
+                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-[#FF57C3]'>
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
                     fill='none'
@@ -58,9 +58,9 @@ export default function Reasons({
               </dd>
             </div>
 
-            <div className='relative pl-16 selection:text-white selection:bg-secondary'>
+            <div className='relative pl-16 selection:text-white selection:bg-[#FF57C3]'>
               <dt className='text-base font-semibold leading-7 text-white'>
-                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-secondary'>
+                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-[#FF57C3]'>
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
                     fill='none'
@@ -84,9 +84,9 @@ export default function Reasons({
               </dd>
             </div>
 
-            <div className='relative pl-16 selection:text-white selection:bg-secondary'>
+            <div className='relative pl-16 selection:text-white selection:bg-[#FF57C3]'>
               <dt className='text-base font-semibold leading-7 text-white'>
-                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-secondary'>
+                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-[#FF57C3]'>
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
                     fill='none'
@@ -110,9 +110,9 @@ export default function Reasons({
               </dd>
             </div>
 
-            <div className='relative pl-16 selection:text-white selection:bg-secondary'>
+            <div className='relative pl-16 selection:text-white selection:bg-[#FF57C3]'>
               <dt className='text-base font-semibold leading-7 text-white'>
-                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-secondary'>
+                <div className='absolute left-0 top-0 flex h-12 w-12 items-center justify-center rounded-lg bg-[#FF57C3]'>
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
                     fill='none'

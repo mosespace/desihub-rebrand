@@ -62,7 +62,7 @@ export default function Faq() {
   };
 
   return (
-    <div className='bg-primary absolute inset-x-0'>
+    <div className='bg-[#0D1224] absolute inset-x-0'>
       <div className='h-full px-4 py-24 mx-auto md:px-12 max-w-7xl'>
         <div className='grid grid-cols-1 gap-6 lg:gap-12 lg:grid-cols-3'>
           <div className='text-center lg:text-left'>
@@ -80,7 +80,7 @@ export default function Faq() {
             {faqData.map((faqItem) => (
               <div
                 key={faqItem.id}
-                className='cursor-pointer group text-slate-50 hover:text-secondaryColor'
+                className='cursor-pointer group text-slate-50 hover:text-[#FF57C3]Color'
               >
                 <button
                   className='flex items-center justify-between w-full p-4 pb-1 text-sm text-left select-none lg:text-base'

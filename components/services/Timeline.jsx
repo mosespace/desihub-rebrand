@@ -3,18 +3,18 @@ import React from 'react'
 export default function Timeline() {
   return (
     <>
-      <section class="font-poppins bg-primary py-16 lg:py-20">
+      <section class="font-poppins bg-[#0D1224] py-16 lg:py-20">
         <div class="mx-auto max-w-xl">
           <div class="text-center ">
             <div class="flex flex-col items-center ">
               <h1 class="text-5xl font-bold leading-tight text-white">
                 {' '}
-                Get Started <span class="text-secondary">Today</span>{' '}
+                Get Started <span class="text-[#FF57C3]">Today</span>{' '}
               </h1>
               <div class="mb-6 mt-1 flex w-24 overflow-hidden rounded">
                 <div class="h-2 flex-1 bg-blue-200"></div>
-                <div class="h-2 flex-1 bg-secondary/50"></div>
-                <div class="h-2 flex-1 bg-secondary"></div>
+                <div class="h-2 flex-1 bg-[#FF57C3]/50"></div>
+                <div class="h-2 flex-1 bg-[#FF57C3]"></div>
               </div>
             </div>
             <p class="mb-16 text-center text-base text-gray-500">
@@ -61,7 +61,7 @@ export default function Timeline() {
                         </div>
                       </div>
                     </div>
-                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-secondary lg:translate-y-[4px] dark:bg-gray-700">
+                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-[#FF57C3] lg:translate-y-[4px] dark:bg-gray-700">
                       <span class="text-gray-100 dark:text-gray-400">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -112,7 +112,7 @@ export default function Timeline() {
                         </div>
                       </div>
                     </div>
-                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-secondary lg:translate-y-[3px] dark:bg-gray-700">
+                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-[#FF57C3] lg:translate-y-[3px] dark:bg-gray-700">
                       <span class="text-gray-100 dark:text-gray-400">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -162,7 +162,7 @@ export default function Timeline() {
                         </div>
                       </div>
                     </div>
-                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-secondary lg:translate-y-[2px] dark:bg-gray-700">
+                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-[#FF57C3] lg:translate-y-[2px] dark:bg-gray-700">
                       <span class="text-gray-100 dark:text-gray-400">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -211,7 +211,7 @@ export default function Timeline() {
                         </div>
                       </div>
                     </div>
-                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-secondary lg:translate-y-[1px] dark:bg-gray-700">
+                    <div class="absolute left-1/2 flex h-8 w-8 -translate-x-1/2 -translate-y-4 transform items-center justify-center rounded-full bg-[#FF57C3] lg:translate-y-[1px] dark:bg-gray-700">
                       <span class="text-gray-100 dark:text-gray-400">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
